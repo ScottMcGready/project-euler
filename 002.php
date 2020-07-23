@@ -18,5 +18,5 @@ function fib(){
 	return $fibseq;
 }
 
-var_dump(fib());
+echo fib();
 ?>
